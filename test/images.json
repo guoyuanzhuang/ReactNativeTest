@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "imgId": "banner01",
+      "title": "新人活动"
+    },
+    {
+      "imgId": "banner02",
+      "title": "存管银行"
+    },
+    {
+      "imgId": "banner03",
+      "title": "关于点点"
+    },
+    {
+      "imgId": "banner04",
+      "title": "双十一活动"
+    },
+    {
+      "imgId": "banner05",
+      "title": "518活动"
+    }
+  ]
+}
